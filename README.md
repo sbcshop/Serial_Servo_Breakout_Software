@@ -38,10 +38,14 @@ For more details about Serial Servo Motor checkout [Manual](https://github.com/s
   
 - Connect Breakout to PC/laptop using Type C connector, along with Serial Servo Motors and 6-8.4V DC Adapter. Make sure to put jumper in USB mode operation as shown below,
   
-  <img src="https://github.com/sbcshop/Serial_Servo_Breakout_Software/blob/main/images/usb_mode.jpg" width="319" height="247" />
+  <img src="https://github.com/sbcshop/Serial_Servo_Breakout_Software/blob/main/images/usb_mode.jpg" width="" height=""/>
 
+- Now you will have to select correct COM port, which you can checkout from Device Manager. Same COM port you need to select in GUI and click on connect button as shown,
 
-- Now you will have to select correct COM port, which you can checkout from Device Manager
+  <img src="https://github.com/sbcshop/Serial_Servo_Breakout_Software/blob/main/images/device_manager.jpg" width="582" height="424"/>
+
+  <img src="https://github.com/sbcshop/Serial_Servo_Breakout_Software/blob/main/images/gui_com_connect.jpg" width="598" height="376"/>
+  
 
 ## Related Products  
 
