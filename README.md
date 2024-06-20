@@ -82,7 +82,12 @@ For more details about Serial Servo Motor checkout [Manual](https://github.com/s
   - [Serial Servo with Arduino](https://github.com/sbcshop/Serial_Servo_Arduino_Shield_Software)
   - [Serial Servo with Raspberry Pi](https://github.com/sbcshop/Serial_Servo_RaspberryPi_HAT_Software)
   
-
+## Resources
+  * [Schematic](https://github.com/sbcshop/Serial_Servo_Breakout_Hardware/blob/main/Design%20Data/Sch%20Servo%20Brkt.pdf)
+  * [Hardware Files](https://github.com/sbcshop/Serial_Servo_Breakout_Hardware)
+  * [3D Step File](https://github.com/sbcshop/Serial_Servo_Breakout_Hardware/blob/main/Mechanical%20Data/Serial%20servo%20breakout.step)
+  * [Serial Servo Manual](https://github.com/sbcshop/Serial_Servo_Breakout_Software/blob/main/Documents/SB_Servo_User_Manual.pdf)
+ 
 ## Related Products  
 
   * [Serial Servo Pico HAT](https://shop.sb-components.co.uk/products/serial-servo-pico-hat?_pos=5&_sid=1178c9361&_ss=r)
