@@ -85,21 +85,21 @@ For more details about Serial Servo Motor checkout [Manual](https://github.com/s
 
 ## Related Products  
 
-  * [Serial Servo Pico HAT](https://shop.sb-components.co.uk/products/serial-servo-hat-for-pico?_pos=5&_sid=8d954c383&_ss=r)
+  * [Serial Servo Pico HAT](https://shop.sb-components.co.uk/products/serial-servo-pico-hat?_pos=5&_sid=1178c9361&_ss=r)
 
-    ![Serial_Servo_Pico_HAT](https://shop.sb-components.co.uk/cdn/shop/files/SerialServoPicoHAT.jpg?v=1698412993&width=150)
+    ![Serial_Servo_Pico_HAT](https://shop.sb-components.co.uk/cdn/shop/files/Artboard2_1.png?v=1718781807&width=150)
     
-  * [Serial Servo Arduino Shield](https://shop.sb-components.co.uk/products/serial-servo-arduino-shield?_pos=4&_sid=8d954c383&_ss=r)
+  * [Serial Servo Arduino Shield](https://shop.sb-components.co.uk/products/serial-servo-arduino-shield-1?_pos=4&_sid=1178c9361&_ss=r)
 
-    ![Serial_Servo_Arduino_Shield](https://shop.sb-components.co.uk/cdn/shop/files/servomotoron.jpg?v=1698413149&width=150)
+    ![Serial_Servo_Arduino_Shield](https://shop.sb-components.co.uk/cdn/shop/files/Artboard2_3.png?v=1718793718&width=150)
 
-  * [Serial Servo ESP32](https://shop.sb-components.co.uk/products/serial-servo-based-on-esp32?_pos=6&_sid=8d954c383&_ss=r)
+  * [Serial Servo ESP32](https://shop.sb-components.co.uk/products/serial-servo-based-on-esp32-1?_pos=1&_sid=c593a9981&_ss=r)
 
-    ![Serial_Servo_ESP32](https://shop.sb-components.co.uk/cdn/shop/files/SerialServobasedonESP32.jpg?v=1698412841&width=150)
+    ![Serial_Servo_ESP32](https://shop.sb-components.co.uk/cdn/shop/files/esp322.png?v=1718797495&width=150)
     
-  * [Serial Servo Raspberry Pi HAT](https://shop.sb-components.co.uk/products/serial-servo-hat-for-raspberry-pi?_pos=7&_sid=8d954c383&_ss=r)
+  * [Serial Servo Raspberry Pi HAT](https://shop.sb-components.co.uk/products/serial-servo-raspberry-pi-hat?_pos=2&_sid=c593a9981&_ss=r)
 
-    ![Serial_Servo_Raspberry Pi_HAT](https://shop.sb-components.co.uk/cdn/shop/files/SerialServoRaspberryPiHAT.jpg?v=1698412485&width=150)
+    ![Serial_Servo_Raspberry Pi_HAT](https://shop.sb-components.co.uk/cdn/shop/files/Artboard2_2.png?v=1718788805&width=150)
 
 
 
