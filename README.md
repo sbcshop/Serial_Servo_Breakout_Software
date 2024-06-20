@@ -31,7 +31,7 @@ For more details about Serial Servo Motor checkout [Manual](https://github.com/s
 ## Pinout
 <img src= "https://cdn.shopify.com/s/files/1/1217/2104/files/Artboard_1_copy_5.png?v=1718801686" />
 
-## Serial Servo Control Using GUI Software
+## Serial Servo Breakout with GUI Software
 - Download [Software for windows](https://github.com/sbcshop/Serial_Servo_Breakout_Software/tree/main/SB-SERIAL-SERVO%20Software) provided here in github and open GUI app you will see interface as shown below,
 
   <img src="https://github.com/sbcshop/Serial_Servo_Breakout_Software/blob/main/images/gui_interface.png" width="598" height="376" />
@@ -61,6 +61,27 @@ For more details about Serial Servo Motor checkout [Manual](https://github.com/s
 - You can search for ID of connected Servos from Parameters section and also you can try other options as well to Read/Write as shown below,
 
   <img src="https://github.com/sbcshop/Serial_Servo_Breakout_Software/blob/main/images/servo_id_search.jpg" width="598" height="376"/>
+
+## Serial Servo Breakout with MCU or SBC's
+
+- To use Serial Servo Breakout change jumper position to set in UART mode as shown below,
+
+  <img src="https://github.com/sbcshop/Serial_Servo_Breakout_Software/blob/main/images/breakout_mode.jpg" width="276" height="229"/>
+  
+- Now follow below connection as per you MCU and make sure to proper VCC 3.3V/5V input which decides operating pin voltage. Then connect Servo motor and 6~8.4V DC supply.
+  | MCU | Serial Servo Breakout |
+  |---|---|
+  |RXD | TXD|
+  |TXD | RXD|
+  |3.3V/5V | VCC|
+  |GND | GND|
+
+- For Getting Started Code you can checkout below githubs for some common MCU,
+  - [Serial Servo with Pico](https://github.com/sbcshop/Serial_Servo_Pico_HAT_Software)
+  - [Serial Servo with ESP32 MCU](https://github.com/sbcshop/Serial_Servo_ESP32_Software)
+  - [Serial Servo with Arduino](https://github.com/sbcshop/Serial_Servo_Arduino_Shield_Software)
+  - [Serial Servo with Raspberry Pi](https://github.com/sbcshop/Serial_Servo_RaspberryPi_HAT_Software)
+  
 
 ## Related Products  
 
