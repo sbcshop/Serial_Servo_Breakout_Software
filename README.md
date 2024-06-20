@@ -46,6 +46,21 @@ For more details about Serial Servo Motor checkout [Manual](https://github.com/s
 
   <img src="https://github.com/sbcshop/Serial_Servo_Breakout_Software/blob/main/images/gui_com_connect.jpg" width="598" height="376"/>
   
+- Write Servo ID and click Read Button, then you have option to run in Motor or Servo Mode.
+
+  <img src="https://github.com/sbcshop/Serial_Servo_Breakout_Software/blob/main/images/connect_ID.jpg" width="598" height="376"/>
+  
+  **Motor Mode**
+  
+  <img src="https://github.com/sbcshop/Serial_Servo_Breakout_Software/blob/main/images/motor_mode.jpg" width="598" height="376"/>
+
+  **Servo Mode**
+  
+  <img src="https://github.com/sbcshop/Serial_Servo_Breakout_Software/blob/main/images/servo_mode.jpg" width="598" height="376"/>
+  
+- You can search for ID of connected Servos from Parameters section and also you can try other options as well to Read/Write as shown below,
+
+  <img src="https://github.com/sbcshop/Serial_Servo_Breakout_Software/blob/main/images/servo_id_search.jpg" width="598" height="376"/>
 
 ## Related Products  
 
