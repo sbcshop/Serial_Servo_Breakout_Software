@@ -1,26 +1,47 @@
 # Serial_Servo_Breakout_Software
 
-<!--
-<img src= "" />
--->
+<img src= "https://cdn.shopify.com/s/files/1/1217/2104/files/Artboard_1_5b49389d-44e7-43b4-8106-481d6ff27fe6.png?v=1718780960" />
 
 The Serial Servo Breakout offers remarkable versatility, as it is compatible with a wide array of Single-Board Computers (SBCs) and microcontrollers. It possesses all the capabilities found in the Serial Servo Pico HAT or the Serial Servo Shield, allowing it to excel in a variety of applications. Its adaptability makes it an ideal choice for those seeking powerful servo control without the need for a display interface.
 This Github provides getting started guide for Serial Servo Breakout.
 
-## Features:
-- Versatile Serial Servo Breakout for SBCs and microcontrollers.
-- Capable of running multiple servos.
-- Compact and space-saving design.
-- High precision and control.
-- Compatible with various platforms.
+## Features & Specification:
+- Type C interface to use with Standalone GUI software
+- UART breakout for interfacing with various Microcontrollers and SBCs.
+- Screw terminal and DC jack for 6-8.4V adapter connect for servo motor supply
+- Operating UART Voltage: 3.3V~5V (as per VCC)
+- Operating Servo Voltage: 6~8.4V DC
+- Status LED to indicate board power
+- Jumper Selection to switch between direct USB and Breakout mode
+- Onboard 4 Serial Servo Connectors, you can easily cascade to add more serial servo motors. Allows controlling 1-253 serial servos at the same time*
+- Compatible Servo Motors =>
+    - [SB-SS023](https://shop.sb-components.co.uk/products/sb-serial-servo-sb-ss023-powerful-multi-purpose-digital-servo-motor?_pos=1&_sid=5cba75e00&_ss=r) - For Lightweight Projects
+    - [SB-SS15](https://shop.sb-components.co.uk/products/sb-serial-servo-sb-ss15-powerful-multi-purpose-digital-servo-motor?_pos=2&_sid=5cba75e00&_ss=r) - For Heavier Applications
+    - Servo Motor Key Features:
+      - Real-Time Position, Load, Temperature, Speed, and Voltage feedback.
+      - Servo/Motor Mode Switchable
+      - High Precision And Large Torque
+      - ID Range 1~253
+      - 38400 bps ~ 1Mbps (1Mbps by default)
 
-For more details about Serial Servo Motor checkout [Manual]().
+***NOTE:  Avoid Connecting More Than 6 Servos At A Time, Not Recommended Due To High Current Demand By Servos.**
+
+For more details about Serial Servo Motor checkout [Manual](https://github.com/sbcshop/Serial_Servo_Breakout_Software/blob/main/Documents/SB_Servo_User_Manual.pdf).
+
+## Pinout
+<img src= "https://cdn.shopify.com/s/files/1/1217/2104/files/Artboard_1_copy_5.png?v=1718801686" />
 
 ## Serial Servo Control Using GUI Software
 - Download [Software for windows](https://github.com/sbcshop/Serial_Servo_Breakout_Software/tree/main/SB-SERIAL-SERVO%20Software) provided here in github and open GUI app you will see interface as shown below,
-  <img src="" width="" height="" />
+
+  <img src="https://github.com/sbcshop/Serial_Servo_Breakout_Software/blob/main/images/gui_interface.png" width="598" height="376" />
   
-- Connect Breakout to PC/laptop using Type C connector, along with Serial Servo Motors and 6-8.4V DC Adapter. Now you will have to select correct COM port, which you can checkout from device
+- Connect Breakout to PC/laptop using Type C connector, along with Serial Servo Motors and 6-8.4V DC Adapter. Make sure to put jumper in USB mode operation as shown below,
+  
+  <img src="https://github.com/sbcshop/Serial_Servo_Breakout_Software/blob/main/images/usb_mode.jpg" width="319" height="247" />
+
+
+- Now you will have to select correct COM port, which you can checkout from Device Manager
 
 ## Related Products  
 
